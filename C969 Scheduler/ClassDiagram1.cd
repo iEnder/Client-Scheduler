@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="C969_Scheduler.Views.AppointmentController">
+    <Position X="6.75" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQADJBAQCIQAYAgICCBSAACAICAAAAAMBgAUASAAAA=</HashCode>
+      <FileName>Views\AppointmentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Views.Scheduler">
+    <Position X="2.75" Y="1.25" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AADACAGCwCAodMGgQAjICCBigghsOCTCAAAACIGBBAU=</HashCode>
+      <FileName>Views\MainScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Views.AdminScheduler">
+    <Position X="2" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\MainScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Views.UserScheduler">
+    <Position X="4.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\MainScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.LogIn" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEAABAACAAAAAQAACAAAACAAAAAACQAAAAQAQAAGA=</HashCode>
+      <FileName>Views\LogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Views.CustomerController">
+    <Position X="6.75" Y="3.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AA0ABAAIQCAgLBAAIACBCACCSQBAAAiAAAgAAIAAAAE=</HashCode>
+      <FileName>Views\CustomerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Views.UserController">
+    <Position X="6.75" Y="6.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAwEBAAAQCAACRAAIACBCAACCAAAAAiQAAgAARAAAAQ=</HashCode>
+      <FileName>Views\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Views.Reports.ConsultantSchedule">
+    <Position X="10.25" Y="1" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgIAACAAABAAAACgAAACAAgAAAAAQAAAIAAAAAA=</HashCode>
+      <FileName>Views\Reports\ConsultantSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Views.Reports.CustomersByCountry">
+    <Position X="10.25" Y="3.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACgAAACAAgAAAAQQAAAAEAAAAA=</HashCode>
+      <FileName>Views\Reports\CustomersByCountry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Views.Reports.TypesByMonth">
+    <Position X="10.25" Y="6" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAgAAACAAABAAAACgAAACAAwAAAAAQAAAIAAAAAA=</HashCode>
+      <FileName>Views\Reports\TypesByMonth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Address">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgAAAAAAAAAAAAACAAAAIAAAAgAAAAAEAAAAA=</HashCode>
+      <FileName>Models\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Appointment">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACQAAAAAAgKAAAAAhCAAAJAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.City">
+    <Position X="18.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Country">
+    <Position X="20.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.Customer">
+    <Position X="18.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQIEAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.CustomerCollection">
+    <Position X="18.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAACAAAAAIAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.User">
+    <Position X="20.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAEAAAEAAAAAAAAAIgAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C969_Scheduler.DbController">
+    <Position X="15.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IgAAQBBAAUAVAACEFIBhAEAAGyAAiEAwCYoUBAABgAA=</HashCode>
+      <FileName>Controllers\DbController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
