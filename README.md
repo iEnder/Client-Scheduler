@@ -1,5 +1,7 @@
 # Client-Scheduler
 
+A scalable C# scheduler appliciation.
+
 ## Images of Application
 ![App Picture 01](https://i.imgur.com/MvOPb07.png)
 
